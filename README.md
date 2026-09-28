@@ -12,7 +12,11 @@
 
 <img src="steering_wheel_image.jpg" alt="Steering wheel visualization" width="170"/>
 
-🎥 **[Watch the demo (Running_Preview.mp4)](model_running_preview_RajanSingh.mp4)**
+🎥 **[Watch the demo (Running_Preview.mp4)](## 🎥 Model Running Preview
+
+<video src="./model_running_preview_RajanSingh.mp4" controls width="800">
+  Your browser does not support the video tag.
+</video>)**
 
 </div>
 
